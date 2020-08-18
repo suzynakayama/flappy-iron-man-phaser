@@ -1,6 +1,6 @@
 # Flappy Iron Man Game
 
-Oh no! Hulk lost his mind again and you, Iron Man, needs to scape!
+### Oh no! Hulk lost his mind again and you, Iron Man, needs to [scape](https://flappy-iron-man.netlify.app/)!
 
 *\*Flappy Bird Style Game\**
 
